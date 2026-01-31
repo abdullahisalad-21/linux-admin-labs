@@ -56,3 +56,18 @@ sudo chgrp admins file.txt
 ## 3. Changing Permissions
 
 ### Symbolic mode
+
+
+## Scenario: User cannot run a script
+
+A user reported that they could not run a script called `backup.sh`.  
+I checked the permissions using:
+
+ls -l backup.sh
+
+The file had no execute permission.  
+I fixed it using:
+
+chmod u+x backup.sh
+
+The user was then able to run the script successfully.
