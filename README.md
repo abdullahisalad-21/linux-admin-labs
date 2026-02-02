@@ -19,3 +19,16 @@ This repository contains hands-on Linux system administration practice completed
 
 ## Purpose
 This repo shows my practical Linux skills — the same tasks performed daily by IT Support and Junior SysAdmins.
+
+## 🔥 Daily Update — 02-February-2026
+
+### Linux File & Folder Permission Management
+Today I completed a Linux permissions lab where I practiced:
+
+- Viewing permissions using `ls -l` and `ls -ld`
+- Modifying permissions using symbolic and numeric modes
+- Changing ownership using `sudo chown`
+- Securing folders by adjusting user/group/other permissions
+- Troubleshooting permission issues using `sudo`
+
+This improved my Linux administration and access control skills.
